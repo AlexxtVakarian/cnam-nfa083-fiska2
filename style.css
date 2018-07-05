@@ -1,0 +1,12 @@
+/* fichier  - 20180703-PBO */
+  *.actif{background-color:blue; color:white; font-weight:700; 
+            border:2px solid blue; border-radius:5px; 
+            text-decoration:none; padding:5px; margin:10px;}
+  *.actif:hover{background-color:white; color:blue; }
+  *.important{color:red; font-weight:700; }
+  h1{color:blue; background-color:lightgrey; }
+  h2{color:blue; margin:40px 0 5px 0; }
+  p{-webkit-margin-before:5px; }
+  strong{display:inline-block; width:140px; vertical-align:top; }
+  img{width:300px; height:auto; }
+  footer{margin-top:50px; padding:20px; background-color:grey; }
