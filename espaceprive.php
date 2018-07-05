@@ -13,7 +13,7 @@
                  if(!isset($_SESSION['login'])){ include("inc/login-recup.inc.php"); }
                  if(!isset($_SESSION['login'])){ include("inc/autorisation.inc.php"); }
                  include("inc/session.inc.php");
-                 if(!isset($_SESSION['login'])){ include("inc/login-recup.inc.php"); }
+                 
                  if(!isset($_SESSION['login'])){ include("inc/login-form.inc.php"); }
                  ?>
   </section>
